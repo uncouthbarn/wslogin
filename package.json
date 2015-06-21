@@ -1,0 +1,9 @@
+{
+  "dependencies":{
+    "level":"",
+    "express":"",
+    "serve-static":"",
+    "browserify":"",
+    "ws":""
+  }
+}
